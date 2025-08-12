@@ -20,6 +20,16 @@ You can use this notes as a reference when you are using the Anki cards that I m
 ### CS notes:
 [[CS\|CS]]
 [[000 MOC/01 Python\|01 Python]]
+
+### Maths Notes:
+[[Mathematics\|Mathematics]]
+
+### Physics Notes
+[[Phy\|Phy]]
+
+### English
+[[Eng proficiency test\|Eng proficiency test]]
+
 | File                                                                        | cs |
 | --------------------------------------------------------------------------- | -- |
 | [[T's A- level Digital Garden Notes\|T's A- level Digital Garden Notes]] | \- |
@@ -33,3 +43,5 @@ https://youtu.be/lqaRbnR8xUY?si=k2-bkduHHzElc3sA
 
 - all the best and your worth does not lies in your exam result
 - now close your eyes and take a deep breath, you can do it!
+[[Studying and Learning\|Studying and Learning]]
+[[A level VS Advanced Placement\|A level VS Advanced Placement]]
