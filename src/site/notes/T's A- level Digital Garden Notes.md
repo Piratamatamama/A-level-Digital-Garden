@@ -15,7 +15,7 @@ You can use this notes as a reference when you are using the Anki cards that I m
 1. raindrop folder share
 2. obsidian publish
 3. anki
-4. google drive share
+	1. google drive share
 
 ### CS notes:
 [[CS\|CS]]
